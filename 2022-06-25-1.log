@@ -1,0 +1,870 @@
+[13:49:27] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[13:49:27] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[13:49:27] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[13:49:27] [main/INFO]: [OptiFine] OptiFineTweaker: acceptOptions
+[13:49:27] [main/INFO]: [OptiFine] OptiFineTweaker: injectIntoClassLoader
+[13:49:27] [main/INFO]: [OptiFine] OptiFine ClassTransformer
+[13:49:27] [main/INFO]: [OptiFine] OptiFine ZIP file: C:\Users\roiye\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.18.2_HD_U_H7\OptiFine-1.18.2_HD_U_H7.jar
+[13:49:27] [main/INFO]: [OptiFine] OptiFineTweaker: getLaunchArguments
+[13:49:27] [main/INFO]: [OptiFine] OptiFineTweaker: getLaunchTarget
+[13:49:27] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:49:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[13:49:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[13:49:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.logging.CrashReportExtender
+[13:49:29] [main/INFO]: [OptiFine] (Reflector) Method not present: aid.create
+[13:49:34] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[13:49:34] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:49:35] [Render thread/INFO]: Setting user: essentialess
+[13:49:36] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[13:49:36] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: dyo.getKeyModifier
+[13:49:36] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[13:49:36] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.handOffWindow
+[13:49:37] [Render thread/INFO]: [OptiFine] 
+[13:49:37] [Render thread/INFO]: [OptiFine] OptiFine_1.18.2_HD_U_H7
+[13:49:37] [Render thread/INFO]: [OptiFine] Build: 20220410-185216
+[13:49:37] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[13:49:37] [Render thread/INFO]: [OptiFine] Java: 17.0.1, Microsoft
+[13:49:37] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[13:49:37] [Render thread/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[13:49:37] [Render thread/INFO]: [OptiFine] OpenGL: Intel(R) Iris(R) Plus Graphics, version 3.2.0 - Build 26.20.100.7926, Intel
+[13:49:37] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.0
+[13:49:37] [Render thread/INFO]: [OptiFine] Maximum texture size: 8192x8192
+[13:49:37] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[13:49:37] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.0 - Build 26.20.100.7926
+[13:49:37] [Render thread/INFO]: [Shaders] Vendor:  Intel
+[13:49:37] [Render thread/INFO]: [Shaders] Renderer: Intel(R) Iris(R) Plus Graphics
+[13:49:37] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[13:49:37] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[13:49:37] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[13:49:37] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[13:49:37] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[13:49:37] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[13:49:37] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ModList
+[13:49:37] [VersionCheck/INFO]: [OptiFine] Version found: H6
+[13:49:37] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[13:49:37] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[13:49:37] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[13:49:37] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to unnamed module @94b4ce6
+[13:49:38] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[13:49:38] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[13:49:38] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[13:49:39] [Render thread/INFO]: Reloading ResourceManager: Default, MassiveCraft-1.18.zip
+[13:49:39] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[13:49:39] [Render thread/INFO]: [OptiFine] Resource packs: MassiveCraft-1.18.zip
+[13:49:39] [Worker-Main-14/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.ModListScreen
+[13:49:39] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[13:49:39] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[13:49:39] [Worker-Main-13/INFO]: [OptiFine] Multitexture: false
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eqn.canRenderInLayer
+[13:49:39] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.internal.BrandingControl
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.loading.ClientModLoader
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityRenderersEvent$AddLayers
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityLeaveWorldEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eri.getTexture
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightEmission
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: adi.currentlyLoading
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: cqq.getWorldForge
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeI18n
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: dyo.setKeyConflictContext
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: dyo.setKeyModifierAndCode
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eqn.canRenderInLayer
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Constructor not present: aea, params: class aeb, int, class java.lang.Object, boolean
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: aea.isForceTicks
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlockEntity
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eqh.getCloudRenderHandler
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eqh.getSkyRenderHandler
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eqh.getWeatherParticleRenderHandler
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eqh.getWeatherRenderHandler
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ModContainer
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ModLoader
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.entity.PartEntity
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RegisterShadersEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderGameOverlayEvent$BossInfo
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.client.RenderProperties.getEffectRenderer
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.client.RenderProperties.getEffectRenderer
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.server.ServerLifecycleHooks
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: epj.updateSprite
+[13:49:39] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[13:49:39] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[13:49:39] [Render thread/INFO]: [OptiFine] Loading optifine/color.properties
+[13:49:39] [Render thread/INFO]: [OptiFine] screen.loading = 000000
+[13:49:39] [Render thread/INFO]: [OptiFine] screen.loading.bar = ff6000
+[13:49:39] [Render thread/INFO]: [OptiFine] screen.loading.progress = 000000
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/wolf.ogg does not exist, cannot add it to event minecraft:wolves
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/wind.ogg does not exist, cannot add it to event minecraft:wind
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/waterfall.ogg does not exist, cannot add it to event minecraft:waterfall
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/tavern.ogg does not exist, cannot add it to event minecraft:tavern
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/seagulls.ogg does not exist, cannot add it to event minecraft:seagulls
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/rainforest.ogg does not exist, cannot add it to event minecraft:rainforest
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/ocean.ogg does not exist, cannot add it to event minecraft:ocean
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/market.ogg does not exist, cannot add it to event minecraft:market
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/forest.ogg does not exist, cannot add it to event minecraft:forest
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/crickets.ogg does not exist, cannot add it to event minecraft:crickets
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/bells.ogg does not exist, cannot add it to event minecraft:bells
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/stream.ogg does not exist, cannot add it to event minecraft:stream
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/smallwaterfall.ogg does not exist, cannot add it to event minecraft:smallwaterfall
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/city.ogg does not exist, cannot add it to event minecraft:city
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/harbor.ogg does not exist, cannot add it to event minecraft:harbor
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/village.ogg does not exist, cannot add it to event minecraft:village
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/hall.ogg does not exist, cannot add it to event minecraft:hall
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/bees.ogg does not exist, cannot add it to event minecraft:bees
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/cannon.ogg does not exist, cannot add it to event minecraft:cannon
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/dripping.ogg does not exist, cannot add it to event minecraft:dripping
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/goats.ogg does not exist, cannot add it to event minecraft:goats
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/windchimes.ogg does not exist, cannot add it to event minecraft:windchimes
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/raven.ogg does not exist, cannot add it to event minecraft:raven
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/battle.ogg does not exist, cannot add it to event minecraft:battle
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/chains.ogg does not exist, cannot add it to event minecraft:chains
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/torture.ogg does not exist, cannot add it to event minecraft:torture
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/gong.ogg does not exist, cannot add it to event minecraft:gong
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/frogs.ogg does not exist, cannot add it to event minecraft:frogs
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/ducks.ogg does not exist, cannot add it to event minecraft:ducks
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/boilingwater.ogg does not exist, cannot add it to event minecraft:boilingwater
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/bats.ogg does not exist, cannot add it to event minecraft:bats
+[13:49:40] [Worker-Main-10/WARN]: File minecraft:sounds/extra/chop.ogg does not exist, cannot add it to event minecraft:chop
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/birch_fence_post
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/birch_fence_side
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/smoker
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:item/smoker
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/spruce_fence_gate
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/bamboo_large_leaves
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/smoker_on
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/azure_bluet
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:item/spruce_fence_gate
+[13:49:43] [Worker-Main-14/WARN]: Unable to resolve texture reference: #missing in minecraft:block/cornflower
+[13:49:43] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:43] [Worker-Main-14/INFO]: [OptiFine] BetterGrass: Parsing configuration optifine/bettergrass.properties
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 5
+[13:49:47] [Worker-Main-13/ERROR]: Using missing texture, unable to load minecraft:textures/block/melon_small.png : java.io.FileNotFoundException: minecraft:textures/block/melon_small.png
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:item/filled_map_markings, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/small_dripleaf_top, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/orange_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/small_dripleaf_stem_bottom, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/lime_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/white_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/big_dripleaf_stem, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/gray_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/medium_amethyst_bud, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/structure_block_save, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/structure_block_corner, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/structure_block_load, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/light_gray_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/green_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/sculk_sensor_bottom, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/pink_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/small_dripleaf_stem_top, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/brown_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/light_blue_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/blue_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/red_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:item/structure_void, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/sculk_sensor_tendril_active, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/redstone_dust_overlay, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/sculk_sensor_side, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/dirt_path_side, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/jigsaw_lock, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/dirt_path_top, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/structure_block, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/purple_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/cyan_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/conduit, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:item/knowledge_book, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/sculk_sensor_top, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:item/music_disc_otherside, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/black_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/small_dripleaf_side, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/magenta_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:entity/conduit/open_eye, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/yellow_shulker_box, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/water_overlay, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/sculk_sensor_tendril_inactive, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:entity/conduit/closed_eye, 16 -> 32
+[13:49:47] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:block/structure_block_data, 16 -> 32
+[13:49:48] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3]
+[13:49:48] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:block/wheat_stage7: [8, 9, 10]
+[13:49:48] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:block/wheat_stage4: [8]
+[13:49:48] [Worker-Main-13/WARN]: Unused frames in sprite minecraft:block/wheat_stage5: [8]
+[13:49:48] [Worker-Main-12/WARN]: Unused frames in sprite minecraft:block/wheat_stage_6_extra: [8, 9, 10]
+[13:49:48] [Worker-Main-10/WARN]: Unused frames in sprite minecraft:block/wheat_stage6: [8, 9, 10]
+[13:49:48] [Worker-Main-13/WARN]: Unused frames in sprite minecraft:block/magma: [32, 33, 34, 35, 36, 37, 38, 39]
+[13:49:48] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:48] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 128
+[13:49:48] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 7
+[13:49:48] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 128
+[13:49:48] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+[13:49:48] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 7
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:entity/banner/piglin, 64 -> 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 128
+[13:49:49] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 7
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:entity/shield/piglin, 64 -> 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 128
+[13:49:49] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 7
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 128
+[13:49:49] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 7
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 128
+[13:49:49] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Sprite size: 128
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Mipmap levels: 7
+[13:49:49] [Worker-Main-14/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 128
+[13:49:49] [Worker-Main-14/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63]
+[13:49:49] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (WH-1000XM4)
+[13:49:49] [Render thread/INFO]: Sound engine started
+[13:49:50] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 95
+[13:49:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:50] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:50] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:50] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:50] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/beds.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:50] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:49:50] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:54] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/particles.png-atlas
+[13:49:54] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[13:49:54] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[13:49:54] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:54] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:49:54] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[13:49:54] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[13:49:54] [Render thread/INFO]: [OptiFine] Texture animation: optifine/anim/flame.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/water.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/skycolor0.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/fogcolor0.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/underwater.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/lightmap/world-1.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/lightmap/world0.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/lightmap/world1.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Loading optifine/color.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: drop.water = 68b2c4
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: particle.portal = 7f462c
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: lilypad = ffffff
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: fog.nether = 38919b
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: fog.end = 0b030b
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: sky.end = 363636
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/acacia.png = minecraft:acacia_leaves
+[13:49:54] [Render thread/WARN]: [OptiFine] CustomColors: Colormap not found: optifine/colormap/acacia.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/fern.png = minecraft:fern
+[13:49:54] [Render thread/WARN]: [OptiFine] CustomColors: Colormap not found: optifine/colormap/fern.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/uncolor.png = minecraft:sugar_cane
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/uncolor.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/spruce.png = minecraft:spruce_leaves
+[13:49:54] [Render thread/WARN]: [OptiFine] CustomColors: Colormap not found: optifine/colormap/spruce.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/dark_oak_leaves.png = minecraft:dark_oak_leaves
+[13:49:54] [Render thread/WARN]: [OptiFine] CustomColors: Colormap not found: optifine/colormap/dark_oak_leaves.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/grass.png = minecraft:grass_block grass tall_grass fern large_fern sugar_cane
+[13:49:54] [Render thread/WARN]: [OptiFine] CustomColors: Colormap not found: optifine/colormap/grass.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/sand.png = minecraft:sand minecraft:sandstone minecraft:smooth_sandstone minecraft:chiseled_sandstone minecraft:cut_sandstone minecraft:red_sand minecraft:red_sandstone minecraft:smooth_red_sandstone minecraft:smooth_red_sandstone_stairs minecraft:smooth_red_sandstone_slab minecraft:chiseled_red_sandstone minecraft:cut_red_sandstone minecraft:cut_red_sandstone_slab minecraft:sandstone_slab minecraft:sandstone_stairs minecraft:red_sandstone_stairs minecraft:red_sandstone_slab minecraft:cut_sandstone_slab minecraft:cut_red_sandstone_slab minecraft:smooth_sandstone_slab minecraft:smooth_sandstone_stairs minecraft:sandstone_wall minecraft:red_sandstone_wall minecraft:cut_red_sandstone
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/sand.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/water.png = minecraft:water
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Colormap optifine/colormap/water.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Block palette: palette.block.~/colormap/endstone.png = minecraft:end_stone
+[13:49:54] [Render thread/WARN]: [OptiFine] CustomColors: Colormap not found: optifine/colormap/endstone.png
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomColors: Text colors: 1
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky1.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky2.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky3.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky4.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky5.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky6.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky7.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky8.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky9.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky10.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky11.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky12.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky13.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky14.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky15.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky16.properties
+[13:49:54] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky17.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky18.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: deep_warm_ocean
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: stone_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: birch_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_forest
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: dark_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_taiga_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_taiga_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_spruce_taiga
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mushroom_field_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: swamp_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_tundra
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: gravelly_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_gravelly_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountain_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: nether
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky19.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky20.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky21.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky22.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky23.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky24.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky25.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky26.properties
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky27.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: deep_warm_ocean
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: birch_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_forest
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: dark_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mushroom_field_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: swamp_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: nether
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky28.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: deep_warm_ocean
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: birch_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_forest
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: dark_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mushroom_field_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: swamp_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: nether
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky29.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: deep_warm_ocean
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: birch_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_forest
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: dark_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mushroom_field_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: swamp_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: nether
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky30.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: deep_warm_ocean
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: birch_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_forest
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: dark_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mushroom_field_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: swamp_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: nether
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky31.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: deep_warm_ocean
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: birch_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_forest
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: tall_birch_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: dark_forest_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_jungle_edge
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mushroom_field_shore
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: swamp_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: nether
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky32.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_lakes
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna_plateau
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky33.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_lakes
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna_plateau
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky34.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_lakes
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna_plateau
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky35.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_wooded_badlands_plateau
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: desert_lakes
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: shattered_savanna_plateau
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky36.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_taiga_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_taiga_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_tundra
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_mountains
+[13:49:55] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky37.properties
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_taiga_hills
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_taiga_mountains
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_tundra
+[13:49:55] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: snowy_mountains
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky38.properties
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: stone_shore
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_spruce_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountain_edge
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky39.properties
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: stone_shore
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_spruce_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountain_edge
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky40.properties
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: stone_shore
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_spruce_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountain_edge
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky41.properties
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: stone_shore
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: taiga_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_tree_taiga_hills
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: giant_spruce_taiga
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: wooded_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: modified_gravelly_mountains
+[13:49:56] [Render thread/WARN]: [OptiFine] CustomSky: Biome not found: mountain_edge
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky42.properties
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky43.properties
+[13:49:56] [Render thread/INFO]: [OptiFine] CustomSky properties: optifine/sky/world0/sky44.properties
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/bear/polarbear.png, properties: optifine/mob/bear/polarbear.properties
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:stone_shore
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:warm_ocean	
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:swamp_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:mushroom_field_shore
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:birch_forest_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:tall_birch_forest
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:tall_birch_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:shattered_savanna
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:shattered_savanna_plateau
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:desert_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:desert_lakes
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:badlands_plateau
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_badlands_plateau
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:wooded_badlands_plateau
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_wooded_badlands_plateau
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:mountain_edge
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_gravelly_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:wooded_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_spruce_taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_spruce_taiga
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_tree_taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_tree_taiga
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:taiga_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:dark_forest_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:wooded_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:jungle_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_jungle
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:jungle_edge
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_jungle_edge
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:bamboo_jungle_hills
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/chicken.png, properties: optifine/mob/chicken.properties
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/cow/cow.png, properties: optifine/mob/cow/cow.properties
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/pig/pig.png, properties: optifine/mob/pig/pig.properties
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:snowy_taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:snowy_taiga_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:taiga_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_spruce_taiga
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_spruce_taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_tree_taiga
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:giant_tree_taiga_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:mountain_edge
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:wooded_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:snowy_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:gravelly_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_gravelly_mountains
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:desert_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:desert_lakes
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:shattered_savanna
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:shattered_savanna_plateau
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:dark_forest_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:wooded_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_jungle
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:modified_jungle_edge
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:jungle_hills
+[13:49:57] [Render thread/WARN]: [OptiFine] RandomEntities: Biome not found: minecraft:jungle_edge
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/sheep/sheep.png, variants: 2
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/sheep/sheep_fur.png, variants: 2
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/skeleton.png, variants: 15
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/stray.png, variants: 4
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/stray_overlay.png, variants: 4
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/skeleton/wither_skeleton.png, variants: 15
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/squid.png, variants: 8
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/zombie/husk.png, variants: 7
+[13:49:57] [Render thread/INFO]: [OptiFine] RandomEntities: textures/entity/zombie/zombie.png, variants: 15
+[13:49:57] [Render thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/chicken.jem
+[13:49:57] [Render thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/cow.jem
+[13:49:57] [Render thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/mooshroom.jem
+[13:49:57] [Render thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/pig.jem
+[13:49:58] [Render thread/INFO]: [OptiFine] CustomEntityModel: optifine/cem/sheep.jem
+[13:49:58] [Render thread/INFO]: [OptiFine] Texture pack clouds: fast
+[13:49:58] [Render thread/INFO]: [OptiFine] CustomBlockLayers: Loading optifine/block.properties
+[13:49:58] [Render thread/INFO]: [OptiFine] CustomBlockLayers: optifine/block.properties
+[13:49:58] [Render thread/WARN]: [OptiFine] CustomBlockLayers: Block not found for name: minecraft:<blocks>
+[13:49:58] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[13:50:08] [Render thread/INFO]: Connecting to massivecraft.com, 25565
+[13:50:11] [Render thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:50:12] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:50:12] [Render thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:50:13] [Render thread/INFO]: [CHAT] __________.[ Welcome To MassiveCraft ].__________
+[13:50:13] [Render thread/INFO]: [CHAT] Have you joined our discord? Do /discord to join!
+[13:50:13] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:50:13] [Render thread/INFO]: [CHAT] Your Premium expired 1 months, 3 weeks and 2 days ago.
+[13:50:13] [Render thread/INFO]: [CHAT] Become Premium or Supremium at https://www.massivecraft.com/premium
+[13:50:13] [Render thread/INFO]: [CHAT] 
+[13:50:13] [Render thread/INFO]: [CHAT] Voting is available on 8 sites!
+[13:50:13] [Render thread/INFO]: [CHAT] Type /vote or click here!
+[13:50:13] [Render thread/INFO]: Loaded 71 advancements
+[13:50:13] [Render thread/WARN]: Unknown custom packed identifier: mcauthenticator:auth
+[13:50:29] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[13:50:29] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[13:50:29] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: did u want him to get excorsicicsizzed
+[13:50:30] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[13:51:07] [Render thread/INFO]: [CHAT] ~Rayyan Sha-Haran says: "Pfhah. I've my own, if that's the concern."
+[13:51:37] [Render thread/INFO]: [CHAT] You don't have permission to edit placed signs.
+[13:51:38] [Render thread/INFO]: [CHAT] You don't have permission to edit placed signs.
+[13:52:59] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: up to whatever happens
+[13:53:08] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: I'm chill if he doesn't get exorcised or if he does
+[13:53:30] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: might be more fun if thrall imdrelar is the one interacting with titania because he's more unstable
+[13:53:49] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: he has a very pseudo vampiric mentality as a thrall
+[13:54:00] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: just minus the ownership bit since he's meant to serve
+[13:56:15] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[13:56:15] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[13:56:19] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: yaya
+[13:56:42] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: they can meet on the street or sumb by crookback
+[13:56:42] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: kL
+[13:56:44] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[13:56:53] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: probably more likely to meet in the forest
+[13:56:58] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[13:56:58] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[13:56:58] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: pog
+[13:57:02] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: since he's kinda told against going into crookback
+[13:57:11] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: forgot abt the ban
+[13:57:42] [Render thread/INFO]: [CHAT] The Cart Court riders will refuse to transport any Guards or government looking people on account of them being private citizens with the right to refuse service to people they think cause trouble!
+[13:58:54] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: somewhere around here or maybe further out works
+[13:59:29] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: she can be on this path anyway
+[13:59:30] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[13:59:46] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[13:59:46] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[13:59:46] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: heres good
+[13:59:50] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[13:59:58] [Render thread/INFO]: [CHAT] [A] Need staff assistance or have a question? Use /ticket create [message] to make a ticket.
+[13:59:58] [Render thread/INFO]: [CHAT] 
+[13:59:58] [Render thread/INFO]: [CHAT] ......---===||||| Remember to /Vote |||||===---......
+[13:59:58] [Render thread/INFO]: [CHAT] Get in loser, Lets open crates with the keys we get from /vote.
+[13:59:58] [Render thread/INFO]: [CHAT] Join the masses and vote for Massive!
+[13:59:58] [Render thread/INFO]: [CHAT] Never gonna give you up, never gonna fail to /vote
+[13:59:58] [Render thread/INFO]: [CHAT] /vote can help pay your taxes!
+[13:59:58] [Render thread/INFO]: [CHAT] I'm getting loot tonight! V-O-T-E the server, ayyyy!
+[14:00:19] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[14:00:19] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[14:00:19] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: sec
+[14:00:20] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[14:01:11] [Render thread/INFO]: [CHAT] ? ~Imdrelar was sitting at the edge of the path with a chocolate cake on a crystal plate in front of him, it had a few slices already missing, with imdrelar eating a slice himself with a crystal fork in his hand. He didn't seem to pay attention to much going on,--
+[14:01:19] [Render thread/INFO]: [CHAT] ? ~Imdrelar merely sitting there and enjoying himself.
+[14:02:20] [Render thread/WARN]: Received packet for unknown team CIT-502889a392d5: team action: null, player action: null
+[14:02:20] [Render thread/WARN]: Received packet for unknown team CIT-502889a392d5: team action: null, player action: null
+[14:02:22] [Render thread/INFO]: [CHAT] ~Titania 's boots dig into the well-beaten path, a rare determined look on her face as she pushes forward. A dark leather satchel swings at her side, then comes to a sudden halt when she stops and whips her head around to find Imdrelar. "Who-" she starts, then-
+[14:02:45] [Render thread/INFO]: [CHAT] ~Titania pauses to get a proper look. Squinting. "Who goes there?"
+[14:03:14] [Render thread/INFO]: Audio device was lost!
+[14:03:15] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speaker (Realtek(R) Audio)
+[14:03:15] [Render thread/INFO]: Sound engine started
+[14:03:15] [IO-Worker-15/INFO]: System default audio device has changed!
+[14:03:15] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speaker (Realtek(R) Audio)
+[14:03:15] [Render thread/INFO]: Sound engine started
+[14:04:28] [Render thread/INFO]: [CHAT] ? ~Imdrelar would look up to Titania, he was clearly recognizable as himself but he also looked a bit different than usual, clearly as a thrall he'd have been letting himself go a lot, but it didn't seem to look normal. It was this unnatural kind of growth that--
+[14:05:22] [Render thread/INFO]: [CHAT] ? ~Imdrelar seemed completely uneven, giving off an uncanny valley kind of look that made Imdrelar not really appear like an actual person, more like a distorted reflection of himself in a carnival mirror. He didn't respond back to Titania, merely offering a smile--
+[14:05:29] [Render thread/INFO]: [CHAT] ? ~Imdrelar before returning to his cake.
+[14:06:06] [Render thread/INFO]: [CHAT] ~Titania asks: ".. Imdrelar?"
+[14:06:12] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "Yes?"
+[14:07:00] [Render thread/INFO]: [CHAT] ~Titania smoothed her palm across the side of her hair, trying to keep prim despite the sweat that was starting to get to her. "What are you doing out here- are you better?"
+[14:08:15] [Render thread/INFO]: [CHAT] ? ~Imdrelar as she got closer she could see just how bloated he really was, it was a wonder he could move at this point as his body resembled one of those zombies you might find that usually end up running up and exploding. "I'm quite a lot better, just enjoying--"
+[14:08:24] [Render thread/INFO]: [CHAT] ? ~Imdrelar "A delicious meal in the peaceful forest."
+[14:08:55] [Render thread/INFO]: [CHAT] ~Titania says: "What have you done to yourself.."
+[14:09:38] [Render thread/INFO]: [CHAT] ~Titania came forward, forgetting in that moment to err on the side of caution. She had half the mind to rip that cake away from him, going on to say "You.. your body.."
+[14:09:50] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "Hmm? You mean my new decadence?"
+[14:09:58] [Render thread/INFO]: [CHAT] [A] Have any questions you need answered? Type H: [question] to ask in Help Chat, or ask on the forums:
+[14:09:58] [Render thread/INFO]: [CHAT] [A] https://forums.massivecraft.com/forums/help-central.181
+[14:10:39] [Render thread/INFO]: [CHAT] ? ~Imdrelar would just summon himself a new slice of cake in his hand that he'd eat as she ripped that one away, Imdre- no, the creature seeming unbothered by her display, completely apethetic.
+[14:10:49] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: apathetic*
+[14:10:57] [Render thread/INFO]: [CHAT] ~Titania says: "You are sitting in the woods, without a home, gorging yourself to death.."
+[14:11:27] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "Not to death, my flesh contorts to whichever way it desires."
+[14:12:07] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "It cannot harm me, my magic simply allows it to exist like building a new apartment to store an increased population of people."
+[14:12:32] [Render thread/INFO]: [CHAT] ~Titania says: "Th.. this.. gluttony.. it is sickening."
+[14:13:07] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "No, it is indulgence in the purest sense, this form represents greatness, excess, achievement."
+[14:14:07] [Render thread/INFO]: [CHAT] ~Titania exclaims: "You have achieved nothing! This is of your own creation- stop it now, stop it! Gods!"
+[14:14:26] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "Exactly, my own creation is yielding great results."
+[14:14:34] [Render thread/INFO]: [CHAT] ~Titania says: "You are so far gone.."
+[14:14:37] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "Do you know how much more blood I have?"
+[14:14:51] [Render thread/INFO]: [CHAT] ~Titania asks: "N.. no?"
+[14:15:06] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "I have forced my body to simply create more, to truly become more."
+[14:15:53] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "To better serve those and follow in their footsteps of indulgence. It is with that I have become a shallow mimic, gorging myself the same way my masters gorge on blood so that I can one day achieve a fraction of their greatness."
+[14:16:07] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "It is beautiful don't you think?"
+[14:16:48] [Render thread/INFO]: [CHAT] ~Titania "No," she whimpers, "No... Gods this is revolting. You have embodied an abomination, Imdrelar- .. no, Thrall. You do not deserve your own name."
+[14:17:27] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "What you consider an abomination I consider a masterpiece. You merely lack the proper taste Titania."
+[14:17:48] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "Perhaps I should show you the true beauty you could achieve."
+[14:19:13] [Render thread/INFO]: [CHAT] ~Titania 's stomach rumbles, bile spluttering within. Her skin visibly recoils, a wave of flesh stretching back, drawing her skin taut against the bone. "Do not dare, you repulse me."
+[14:19:56] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "If I repulse you, you are free to leave. I only wish to spread the blessings of my masters to any who wish to accept."
+[14:19:58] [Render thread/INFO]: [CHAT] [A] ? Premium players can wear any block on their head with the /hat command!
+[14:19:58] [Render thread/INFO]: [CHAT] [A] https://www.massivecraft.com/premium
+[14:20:16] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "You could sit alongside me enjoying yourself just the same, if you want."
+[14:20:25] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "Otherwise I will not hold you here to linger."
+[14:20:43] [Render thread/INFO]: [CHAT] ~Titania says: "Nno.. no.."
+[14:21:02] [Render thread/INFO]: [CHAT] ? ~Imdrelar would just return to eating, having finished what he said like simple robotic character dialogue, it lacked any emotions behind it, as if he was simply spewing out a message.
+[14:21:07] [Render thread/INFO]: [CHAT] ~Titania says: "I thought you were different, I warned you- I always warn, the dangers of succumbing to the vile chaos of your nature."
+[14:21:39] [Render thread/INFO]: [CHAT] ~Titania asks: "Can you even hear me? Have you lost all control over your brain?"
+[14:22:58] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "Miss Avantika is in control, and pure indulgence is in control, I am still Imdrelar and I hear you too, but it seems you want the Imdrelar who still pesters me in my own head. The more I consume the quieter his voice grows, and I like to keep it that way."
+[14:23:22] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "He's but a little whimper, no more than a helpless grub."
+[14:24:16] [Render thread/INFO]: [CHAT] ~Titania says: "Stand up."
+[14:25:16] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "Why should I listen to your words?"
+[14:25:26] [Render thread/INFO]: [CHAT] [CratesPlus] You have been given a KingdomCrate crate key
+[14:26:07] [Render thread/INFO]: [CHAT] ~Titania swallowed harshly, letting her eyelids close shut for a long pause. She breathes, collects herself, and commands again. "Stand up, you gord of a thing. Stand. Stand."
+[14:28:32] [Render thread/INFO]: [CHAT] ? ~Imdrelar would reluctantly stand, his entire form wobbling as he moved to his feet, his form seemed to gurgle and slosh around in a disgusting manner, akin to waves of sewage pouring out of pipes and flowing into the ocean, but only to be contained within fetid--
+[14:28:57] [Render thread/INFO]: [CHAT] ? ~Imdrelar skin. "And now that I have stood what is it you hope to see?"
+[14:29:10] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: btw let me know if anything is ever too gross or too much
+[14:29:16] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: or uncomfortable in any way
+[14:29:58] [Render thread/INFO]: [CHAT] [A] View all of our worlds on the online map:
+[14:29:58] [Render thread/INFO]: [CHAT] [A] https://www.massivecraft.com/maps
+[14:29:58] [Render thread/INFO]: [CHAT] 
+[14:29:58] [Render thread/INFO]: [CHAT] _________.[ /Vote and Earn Rewards ]._______
+[14:29:58] [Render thread/INFO]: [CHAT] * You get special items when you /vote.
+[14:29:58] [Render thread/INFO]: [CHAT] * Vote. Just vote. You want me to tell you again? Okay. Do /vote.
+[14:29:58] [Render thread/INFO]: [CHAT] * People fought for your right to vote! Use it!
+[14:29:58] [Render thread/INFO]: [CHAT] * /vote for some cash and food to feed your children.
+[14:29:58] [Render thread/INFO]: [CHAT] * I'm getting loot tonight! V-O-T-E the server, ayyyy!
+[14:30:11] [Render thread/INFO]: [CHAT] [OOC] essentialess: naur this is pg
+[14:30:35] [Render thread/INFO]: [CHAT] ~Titania says: ".. I just wanted to see it all, your form."
+[14:32:14] [Render thread/INFO]: [CHAT] ? ~Imdrelar would move up towards Titania as he'd just look to their blue and silver eyes. As he got closer his smell was a lot more pungent, but unlike what one would expect it wasn't foul, in fact it was sweet, like freshly baked goods, an odd contrast to the--
+[14:32:30] [Render thread/INFO]: [CHAT] ? ~Imdrelar unpleasant visual nature of him.
+[14:33:09] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "Is that all you wished to see? I accept you with all your hives, sickness, and flaws, so why take issue with this?"
+[14:34:21] [Render thread/INFO]: [CHAT] ~Titania 's eyes glaze over, nostrils flaring as she's hit with the full overload to her senses. The woman, thin as a twig looks as if she could blow over. A brittle parallel, yet her voice booms strong from her small person. "Because this is not you," she spat.
+[14:35:08] [Render thread/INFO]: [CHAT] ~Titania says: "I am burdened with the task to unleash you from this hold yet- you.. sadden me. I feel pain. A part of me would leave you here and choose to forget."
+[14:35:34] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "Then leave me here. I do not want you."
+[14:36:09] [Render thread/INFO]: [CHAT] ~Titania asks: "Who is your Master, Avantika?"
+[14:36:19] [Render thread/INFO]: [CHAT] ? ~Imdrelar would say simply, moving to step back as he'd summon himself a cone of ice cream to lick at. "They are my master, simple as that."
+[14:36:32] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "I need only them, not you. So begone."
+[14:38:44] [Render thread/INFO]: [CHAT] ~Titania "YOU DO NEED ME," she wails, her voice splitting into a shrill, high-pitched screech. She lets a burst of arcane energy rip through her throat in turn, spurred on by his audacity to summon another damned treat in front of her-
+[14:39:15] [Render thread/INFO]: [CHAT] ~Titania -[Arcane Knockback]. She'd send his engorged body into the back of the oak tree, still screaming. "GODS, DO I TRULY HAVE TO FIX YOU?"
+[14:39:58] [Render thread/INFO]: [CHAT] [A] MassiveCraft has a vast amount of lore on the wiki! 
+[14:39:58] [Render thread/INFO]: [CHAT] [A] https://wiki.massivecraft.com/Lore
+[14:40:38] [Render thread/INFO]: [CHAT] ? ~Imdrelar would be smashed into the tree, his corpulent form providing cushion as he slid down into a seated position. He'd continue to lick as his ice cream, summoning extra whipped cream on top of it just to spite her. "I do not need to be fixed, I am perfect."
+[14:40:54] [Render thread/INFO]: [CHAT] ? ~Imdrelar says: "And I certainly do not need you. You need me."
+[14:41:05] [Render thread/INFO]: [CHAT] ? ~Imdrelar asks: "Otherwise you would've left by now, wouldn't you?"
+[14:41:21] [Render thread/INFO]: [CHAT] ~Titania came forward, "I only want my friend to return."
+[14:41:47] [Render thread/INFO]: [CHAT] ~Titania says: "He is mine.. he does not belong to your Master."
+[14:42:55] [Render thread/INFO]: [CHAT] ? ~Imdrelar "He can return, let me show you your new friend." He'd smile as he stood, his frame coating in sparkling crystal armor as shadows collected around his fingertips. "His name isn't Imdrelar however, but you can meet him today if you'd like."
+[14:44:20] [Render thread/INFO]: [CHAT] ~Titania shook her head sharply, a crack sounding from the base of her neck. Resounding. She lofts a single finger, commanding a branch to grip the Thrall's shoulder. At first, gentle, but with its grasp slowly tensing. "Enough of your drivel. I have decided."
+[14:44:26] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[14:44:26] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[14:44:30] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: um...........................................................
+[14:44:34] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: an I ENTHRALL HIM..
+[14:44:45] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: WAIT WHAT?!
+[14:44:47] [Render thread/INFO]: [CHAT] Already speaking in Direct.
+[14:44:47] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[14:44:53] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: can you do that while he's a thrall of someone else?
+[14:44:56] [Render thread/INFO]: [CHAT] Already speaking in Direct.
+[14:44:56] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[14:45:06] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: can excorcize him and enthrall him
+[14:45:07] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[14:45:19] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: yeeee that would probably be best
+[14:45:28] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: if you can exorcise him though
+[14:46:04] [Render thread/INFO]: [CHAT] Already speaking in Local.
+[14:46:58] [Render thread/INFO]: [CHAT] ? ~Imdrelar 's hair would extend over to the branch and tear it off, as a shadowy orb would form in his palm, it'd hiss within the darkness, his anger seeping out as the shadows dripped down onto the ground. He looked almost in pain as he channeled the magic,--
+[14:48:16] [Render thread/INFO]: [CHAT] ? ~Imdrelar as the orb solidified into rock candy, spokes like those on a morningstar erupted out of the orb, before beginning to hover in the air like a crown above his head. He regained emotion now, all the robotic rambling disappearing, only to be replaced with--
+[14:48:44] [Render thread/INFO]: [CHAT] ? ~Imdrelar hate, as one of the shards that made up the crown would fire towards them like a missile, aiming to strike her shoulder. "ENOUGH!"
+[14:49:58] [Render thread/INFO]: [CHAT] [A] Band together with other factions in a Kingdom! Use /k join to enter a Kingdom.
+[14:49:58] [Render thread/INFO]: [CHAT] [A] https://www.massivecraft.com/kingdoms
+[14:50:02] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: just normal ranged attack with funky caster aesthetics
+[14:51:54] [Render thread/INFO]: [CHAT] ~Titania could have, and should have casted in turn to save herself from this attack. Yet she only stood on and watched in abject horror as the rock candy shratnel pierced her shoulder. There is a sudden gasp of breath before the pain truly hits her- then she-
+[14:52:16] [Render thread/INFO]: [CHAT] ~Titania -recoils, eyes wide like saucers. "You," she splutters. "Fine-I-"
+[14:52:21] [Render thread/INFO]: [CHAT] ~Titania says: "I will leave you."
+[14:53:10] [Render thread/WARN]: Received packet for unknown team CIT-502889a392d5: team action: null, player action: null
+[14:53:10] [Render thread/WARN]: Received packet for unknown team CIT-502889a392d5: team action: null, player action: null
+[14:53:34] [Render thread/INFO]: [CHAT] ? ~Imdrelar would smile widely. "I gave you that choice already." He'd laugh as he'd draw out his hand, shooting out another shard for them, but instead of piercing their skin, it'd smush against it, flattening and spreading like an infection accross their body--
+[14:53:50] [Render thread/INFO]: [CHAT] ?? Halsi logged on
+[14:54:30] [Render thread/INFO]: [CHAT] ? ~Imdrelar before encasing them fully in rock candy, rendering them unable to move but can still use abilities. [Pinning shot] "Perhaps you should have listened earlier, but now your fate is sealed."
+[14:54:47] [Render thread/INFO]: [CHAT] ?? Halsi logged off
+[14:58:32] [Render thread/INFO]: [CHAT] ~Titania "Are you going to kill me?" She breathes out, face still as her body was. There is an air of blatant defeat, and unwillingness to fight back at this point. She lets her body slump against the rock candy hold. "Well, are you?"
+[14:59:35] [Render thread/INFO]: [CHAT] ? ~Imdrelar "No, I'll do something far /FAR/ better." He'd say with a smile, moving to slam her into the ground with his full weight, as he did so of course his pinning candy would break, freeing them as he could not channel and attack at the same time, aiming to--
+[14:59:58] [Render thread/INFO]: [CHAT] [A] Use /k to learn more about Kingdoms!
+[14:59:58] [Render thread/INFO]: [CHAT] [A] https://www.massivecraft.com/kingdoms
+[14:59:58] [Render thread/INFO]: [CHAT] 
+[14:59:58] [Render thread/INFO]: [CHAT] ========# /Vote and Make Massive Proud! #========
+[14:59:58] [Render thread/INFO]: [CHAT] With great voting power, comes great responsibility to vote.
+[14:59:58] [Render thread/INFO]: [CHAT] Did You Know /Vote is the #1 Source of Free Items?
+[14:59:58] [Render thread/INFO]: [CHAT] The server loves you. Show it you love it back using /vote.
+[15:00:02] [Render thread/INFO]: [CHAT] ? ~Imdrelar crush the poor woman with the only real weapon his disgusting form had: weight.
+[15:01:51] [Render thread/INFO]: [CHAT] ~Titania 's yelp spills into a series of wretching gags, cut off only when her mind finally sprung into action- /not like this./ She leaves a silouhette of her frail form in her wake, desperately letting [Arcane Misdirection] carry her away from that fate. She's-
+[15:02:21] [Render thread/INFO]: [CHAT] ~Titania heard panting just feet away from him, watching briefly the sight of herself being crushed like puddy under his weight. "Vile monster!"
+[15:03:53] [Render thread/INFO]: [CHAT] ? ~Imdrelar would drive himself into the ground as he crushed the clone, cackling with sick laughter only to realize seconds later that she was still there as she spoke. His head turned, neck spinning around to look directly at them as his joyous celebration was--
+[15:04:50] [Render thread/INFO]: [CHAT] ? ~Imdrelar instantly cut short, insanity stirred through him as he did not hesitate, instantly leaping from the ground right to her, aiming to repeat his vile tactic once over, gaining the initiative on the attack. [Leaping Charge]
+[15:06:01] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: btw it's non-lethal I don't wanna kill titania she's so cool
+[15:06:13] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: he's just in the evil arc
+[15:07:19] [Render thread/INFO]: [CHAT] ~Titania 's stomach churns at his bounding leap, bile kicking up in her throat from the accumulation of sheer disgust. Reflexes push her to shove her arm out instead of slink back this time, and she initiates [Body Invasion]. But Gods, she thought-
+[15:07:33] [Render thread/INFO]: [CHAT] ~Titania -the last thing she wanted to be is inside of this /thing./
+[15:07:45] [Render thread/INFO]: [CHAT] [OOC] essentialess: dude hes peaking evil right now
+[15:07:50] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: YES
+[15:07:54] [Render thread/INFO]: [CHAT] [OOC] essentialess: Very glutton seven deadly sins vibes
+[15:08:19] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: okay awesome I'm glad it's coming accross well
+[15:08:39] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: like this is the best representation of his kit and like mentality when switched to evil
+[15:08:53] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: Get out of my body so I can crush you weakling.
+[15:09:02] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[15:09:02] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[15:09:27] [Render thread/INFO]: [CHAT] ? ~Imdrelar would move to stand up, looking angry and confused, screaming in his own head at the now invaded Titania.
+[15:09:41] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: You are rotting inside. Rotting. Rotting.
+[15:09:42] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[15:09:55] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: And you are the rot, get out.
+[15:09:58] [Render thread/INFO]: [CHAT] [A] Find us on Twitter!
+[15:09:58] [Render thread/INFO]: [CHAT] [A] https://twitter.com/MassivecraftMC
+[15:10:53] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: You are the tumor I need to cut from the blood source, the polyp that is the origin of that rot.
+[15:10:57] [Render thread/INFO]: [CHAT] ~Titania 's movements feel like she's submerged in molasses, yet she pushes on. Towards the stairway of the path ahead. Heavy, determined steps. 
+[15:11:01] [Render thread/INFO]: [CHAT] Now speaking in Direct.
+[15:11:01] [Render thread/INFO]: [CHAT] Sendee is ? MegaMaraya.
+[15:11:17] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: I am not listening to a word you say. You are the embodiment of a demon, and will not exist for long.
+[15:12:32] [Render thread/INFO]: [CHAT] ? ~Imdrelar would resist her movements, she felt like she had much less control than the last time she possessed him, he moved along as she dragged each foot over the cobble and dirt, a sluggish momentum as he'd eventually make his way forwards.
+[15:12:57] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: You are the same embodiment of a different demon, you have no room to speak.
+[15:13:26] [Render thread/INFO]: [CHAT] TO ? MegaMaraya: I have control over myself, you do not.
+[15:13:27] [Render thread/INFO]: [CHAT] Now speaking in Local.
+[15:13:38] [Render thread/INFO]: [CHAT] FROM ? MegaMaraya: You won't for long.
+[15:14:34] [Render thread/INFO]: [CHAT] ~Titania 's actions are planned, succint. The Thrall can feel her influence start to part- but not before she throws their bodies down, forcing him to fall, so that his back crashes against the ground for him to struggle with his weight. Like a turtle turned on-
+[15:14:39] [Render thread/INFO]: [CHAT] ~Titania -its shell. Then she leaves.
+[15:16:55] [Render thread/INFO]: [CHAT] ? ~Imdrelar would be thrown to the ground, only to bounce back up like a ball, ricocheting up off the ground and bouncing behind Titania in a /third/ crushing attempt. His evil was persistent, and it was clear he would stop at nothing. [Relocation]
+[15:17:03] [Render thread/INFO]: [CHAT] ? ~Imdrelar BOING
+[15:18:08] [Render thread/INFO]: [CHAT] Already speaking in Local.
+[15:19:10] [Render thread/INFO]: [CHAT] ~Titania "Ugh!" She grunts, skin crawling. She forces herself to set her eyes on its grotesque form as it bounces forward, glowing silver beams shining out of her pupils to cast [Warding Beam.] "STAY BACK!"
+[15:19:43] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: would that work in time to cancel an attack? idk how warding beam works tbh
+[15:19:58] [Render thread/INFO]: [CHAT] [A] Use /stack to stack items in your inventory.
+[15:19:58] [Render thread/INFO]: [CHAT] [A] https://www.massivecraft.com/commands
+[15:20:30] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: never used it before
+[15:20:39] [Render thread/INFO]: [CHAT] [OOC] essentialess: hm, it does say summon and not channel
+[15:21:19] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: contested roll maybe?
+[15:21:26] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: to see if she can get it in before he can
+[15:21:28] [Render thread/WARN]: Received packet for unknown team CIT-502889a392d5: team action: null, player action: null
+[15:21:28] [Render thread/WARN]: Received packet for unknown team CIT-502889a392d5: team action: null, player action: null
+[15:21:41] [Render thread/INFO]: [CHAT] [OOC] essentialess: actually i have to go to lunch!!!! :pensive:
+[15:21:48] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: OOOF
+[15:21:58] [Render thread/INFO]: [CHAT] [OOC] MegaMaraya: we can continue when you get back if you want
+[15:22:05] [Render thread/INFO]: [CHAT] [OOC] essentialess: sorry its 3:21 and the s/o is mad but YA
+[15:22:10] [Render thread/INFO]: [CHAT] [OOC] essentialess: screenshot the last emote bbl
+[15:22:16] [Render thread/INFO]: [CHAT] Saved screenshot as 2022-06-25_15.22.16.png
+[15:22:17] [Render thread/INFO]: Stopping!
